@@ -1,3 +1,13 @@
+"""
+return the sum of allthe odd integers from a through b inclusively
+
+
+
+working
+"""
+
+
+
 a = input('select a number')
 b = input('select another number') + 1
 c = 0

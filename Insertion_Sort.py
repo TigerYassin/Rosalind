@@ -1,3 +1,10 @@
+
+"""
+
+not working
+"""
+
+
 String = [6, 10, 4, 5, 1, 2]
 t = 0
 for x in String:

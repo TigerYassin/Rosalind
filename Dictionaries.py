@@ -1,3 +1,12 @@
+"""
+return the number of occurrences of each word in the string
+
+
+working
+"""
+
+
+
 a = raw_input('enter something my dog').split()
 
 b = {}

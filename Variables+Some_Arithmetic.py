@@ -1,3 +1,10 @@
+"""
+required the user to do simple arithmetic
+
+
+ working
+"""
+
 a = input('pick a number')
 b = input('pick another number')
 

@@ -1,7 +1,11 @@
 """
-Working
+
 http://rosalind.info/problems/ba1g/
 Compute the Hamming Distance Between Two Strings
+
+
+
+Working
 """
 
 
